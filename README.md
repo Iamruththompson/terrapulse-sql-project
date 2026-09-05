@@ -65,10 +65,7 @@ See `diagrams/terrapulse_erd.dbml`. Summary: 4 dimension tables
 
 ## Team
 
-- [Name 1] — [Role]
-- [Name 2] — [Role]
-- [Name 3] — [Role]
-- [Name 4] — [Role]
+RUTH OKON THOMPSON
 
 ## License
 
